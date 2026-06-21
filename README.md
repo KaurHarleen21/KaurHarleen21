@@ -76,10 +76,9 @@ GitHub Stats
   </a>
 </p>
 
-<p align="center">
-  <i>Collecting badges through hackathons & open-source events</i>
-</p>
----
+
+
+
 
 <!-- ===================== CONNECT ===================== -->
 
