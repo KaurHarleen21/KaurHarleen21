@@ -64,7 +64,21 @@ GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaurHarleen21&theme=tokyonight&hide_border=true"/>
 </p>
+<!-- ===================== HOLOPIN ===================== -->
 
+<h2 align="center" style="font-family: 'Fira Code', monospace;">
+ Holopin Board
+</h2>
+
+<p align="center">
+  <a href="https://holopin.io/@KaurHarleen21">
+    <img src="https://holopin.me/KaurHarleen21" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Collecting badges through hackathons & open-source events</i>
+</p>
 ---
 
 <!-- ===================== CONNECT ===================== -->
