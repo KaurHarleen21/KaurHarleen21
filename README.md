@@ -33,6 +33,10 @@ Biotechnology student working at the intersection of biological systems and comp
 <!-- ===================== TECH STACK ===================== -->
 
 
+<h2 align="center" style="font-family: 'Fira Code', monospace;">
+Tools & Technologies
+</h2>
+
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
