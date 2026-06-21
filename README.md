@@ -10,8 +10,10 @@
 
 <br>
 
+<!-- ===================== MAIN GIF (SMALLER) ===================== -->
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="520"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="360"/>
 </p>
 
 ---
@@ -43,7 +45,7 @@ Tools & Technologies
 
 ---
 
-<!-- ===================== GITHUB STATS (ONLY ONCE - CLEAN) ===================== -->
+<!-- ===================== GITHUB STATS ===================== -->
 
 <h2 align="center" style="font-family: 'Fira Code', monospace;">
 GitHub Stats
@@ -63,18 +65,6 @@ GitHub Stats
 
 ---
 
-<!-- ===================== CONTRIBUTION FLOW (PACMAN/SNAKE STYLE) ===================== -->
-
-<h2 align="center" style="font-family: 'Fira Code', monospace;">
-Contribution Flow
-</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <!-- ===================== CONNECT ===================== -->
 
 <h2 align="center" style="font-family: 'Fira Code', monospace;">
@@ -90,3 +80,5 @@ Connect
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
 </p>
+
+
