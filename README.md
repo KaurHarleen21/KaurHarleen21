@@ -72,6 +72,8 @@ GitHub Stats
 
 <!-- ===================== CONNECT ===================== -->
 
+
+
 <h2 align="center" style="font-family: 'Fira Code', monospace;">
 Connect
 </h2>
@@ -80,10 +82,16 @@ Connect
   <a href="https://www.linkedin.com/in/harleen-kaur-461781371">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="https://orcid.org/0009-0003-5744-3881">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
 </p>
+
+
 
 
